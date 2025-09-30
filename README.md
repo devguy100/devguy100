@@ -43,6 +43,6 @@ I love problem solving, listening to music and learning new skills.
 
 ### ☎️ Contact me
 
-You can add me on Discord, my username is `shelltrace` or you can send me an email at `hello@omnizyo.com`
+You can add me on Discord, my username is `vlaair.` (don't forget the `.`) or you can send me an email at `hello@omnizyo.com`
 
 Thanks for viewing my Profile! 
