@@ -2,7 +2,7 @@
 
 ### 🚀 Introduction
 
-I have developed many past projects, one known as [PrizzLife](https://github.com/shelltrace/PrizzLife), which is a Roblox Modification Tool (discontinued due to Roblox TOS updates). I have made a [Discord Bot Manager](https://github.com/shelltrace/Bot-Manager) which was also another passion project, written in Javascript. I have also made many other cool passion projects. I am a cybersecurity enthusiast wanting to work in that field. 
+I have developed many past projects, one of which a [Discord Ticket Manager](https://github.com/shelltrace/Bot-Manager) which was a passion project, written in Javascript. I have also made many other cool passion projects which are currently privated. 
 
 ### 🎓 Education
 
